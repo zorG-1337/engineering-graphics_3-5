@@ -1,0 +1,7 @@
+﻿  Camera.cpp
+D:\5.UNIK\ugatu-engineering-computer-graphics\computer_graphics-master\lesson15-camera\Camera.cpp(44,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\5.UNIK\ugatu-engineering-computer-graphics\computer_graphics-master\lesson15-camera\Camera.cpp(48,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\5.UNIK\ugatu-engineering-computer-graphics\computer_graphics-master\lesson15-camera\Camera.cpp(55,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\5.UNIK\ugatu-engineering-computer-graphics\computer_graphics-master\lesson15-camera\Camera.cpp(59,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\5.UNIK\ugatu-engineering-computer-graphics\computer_graphics-master\lesson15-camera\Camera.cpp(63,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lesson15.vcxproj -> D:\5.UNIK\ugatu-engineering-computer-graphics\laboratory_work3\lesson15-camera\x64\Debug\lesson15.exe

@@ -1,0 +1,8 @@
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\x64\Release\UROK 25.vcxproj.CopyComplete
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\x64\Release\UROK 25.exe
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\x64\Release\freeglut.dll
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\x64\Release\glew32.dll
+C:\Users\neket\Desktop\projects\github\UNJ-Graph-Completed\INJ4\UROK 25\x64\Release\UROK 25.vcxproj.CopyComplete
+C:\Users\neket\Desktop\projects\github\UNJ-Graph-Completed\INJ4\UROK 25\x64\Release\UROK 25.exe
+C:\Users\neket\Desktop\projects\github\UNJ-Graph-Completed\INJ4\UROK 25\x64\Release\freeglut.dll
+C:\Users\neket\Desktop\projects\github\UNJ-Graph-Completed\INJ4\UROK 25\x64\Release\glew32.dll

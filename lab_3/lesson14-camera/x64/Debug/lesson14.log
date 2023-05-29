@@ -1,0 +1,13 @@
+﻿  Camera.cpp
+  main.cpp
+D:\5.UNIK\ugatu-engineering-computer-graphics\computer_graphics-master\lesson14-camera\main.cpp(120,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  math_3d.cpp
+D:\5.UNIK\ugatu-engineering-computer-graphics\computer_graphics-master\lesson14-camera\math_3d.cpp(35,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\5.UNIK\ugatu-engineering-computer-graphics\computer_graphics-master\lesson14-camera\math_3d.cpp(35,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\5.UNIK\ugatu-engineering-computer-graphics\computer_graphics-master\lesson14-camera\math_3d.cpp(36,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\5.UNIK\ugatu-engineering-computer-graphics\computer_graphics-master\lesson14-camera\math_3d.cpp(36,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\5.UNIK\ugatu-engineering-computer-graphics\computer_graphics-master\lesson14-camera\math_3d.cpp(37,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\5.UNIK\ugatu-engineering-computer-graphics\computer_graphics-master\lesson14-camera\math_3d.cpp(37,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\5.UNIK\ugatu-engineering-computer-graphics\computer_graphics-master\lesson14-camera\math_3d.cpp(85,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  lesson14.vcxproj -> D:\5.UNIK\ugatu-engineering-computer-graphics\laboratory_work3\lesson14-camera\x64\Debug\lesson14.exe

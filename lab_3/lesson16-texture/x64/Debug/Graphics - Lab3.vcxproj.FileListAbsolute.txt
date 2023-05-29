@@ -1,0 +1,9 @@
+C:\Users\Азалия\Desktop\Graphics---Lab3-Texture\Graphics - Lab3\x64\Debug\Basic Texture Mapping.exe
+C:\Users\Filya\source\repos\lab_3_ECG_ex16\x64\Debug\Basic Texture Mapping.exe
+C:\Users\Filya\source\repos\lab_3_ECG_ex16\x64\Debug\Graphics - Lab3.vcxproj.CopyComplete
+C:\Users\Filya\source\repos\lab_3_ECG_ex16\x64\Debug\freeglutd.dll
+D:\5.UNIK\ugatu-engineering-computer-graphics\laboratory_work3\lab_3_ECG_ex16\x64\Debug\Graphics - Lab3.vcxproj.CopyComplete
+D:\5.UNIK\ugatu-engineering-computer-graphics\laboratory_work3\lab_3_ECG_ex16\x64\Debug\Basic Texture Mapping.exe
+D:\5.UNIK\ugatu-engineering-computer-graphics\laboratory_work3\lab_3_ECG_ex16\x64\Debug\freeglutd.dll
+D:\5.UNIK\ugatu-engineering-computer-graphics\laboratory_work3\lesson16-texture\x64\Debug\Basic Texture Mapping.exe
+C:\Users\bossv\OneDrive\Рабочий стол\computer-graphics_master\lesson16-texture\x64\Debug\Basic Texture Mapping.exe

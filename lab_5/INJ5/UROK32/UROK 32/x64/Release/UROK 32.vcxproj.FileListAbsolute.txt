@@ -1,0 +1,4 @@
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ5\UROK32\UROK 32\x64\Release\UROK 32.vcxproj.CopyComplete
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ5\UROK32\UROK 32\x64\Release\UROK 32.exe
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ5\UROK32\UROK 32\x64\Release\freeglut.dll
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ5\UROK32\UROK 32\x64\Release\glew32.dll

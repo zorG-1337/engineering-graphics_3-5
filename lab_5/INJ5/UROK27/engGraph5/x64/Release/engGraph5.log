@@ -1,0 +1,31 @@
+﻿  billboard_list.cpp
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\texture.h(25,10): fatal  error C1083: Не удается открыть файл включение: Magick++.h: No such file or directory,
+  billboard_technique.cpp
+  camera.cpp
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\camera.cpp(46,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\camera.cpp(50,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\camera.cpp(57,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\camera.cpp(61,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\camera.cpp(65,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  glut_backend.cpp
+  lighting_technique.cpp
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\lighting_technique.cpp(448,58): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\texture.h(25,10): fatal  error C1083: Не удается открыть файл включение: Magick++.h: No such file or directory,
+  math_3d.cpp
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\math_3d.cpp(43,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\math_3d.cpp(44,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\math_3d.cpp(74,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\math_3d.cpp(74,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\math_3d.cpp(75,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\math_3d.cpp(75,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\math_3d.cpp(76,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\math_3d.cpp(76,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\math_3d.cpp(124,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  mesh.cpp
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\texture.h(25,10): fatal  error C1083: Не удается открыть файл включение: Magick++.h: No such file or directory,
+  pipeline.cpp
+  technique.cpp
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\technique.cpp(97,36): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  texture.cpp
+C:\Users\bossv\OneDrive\Рабочий стол\lab_5\INJ5\UROK27\engGraph5\texture.h(25,10): fatal  error C1083: Не удается открыть файл включение: Magick++.h: No such file or directory,

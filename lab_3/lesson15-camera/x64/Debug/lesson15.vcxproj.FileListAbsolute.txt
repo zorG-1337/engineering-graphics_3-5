@@ -1,0 +1,4 @@
+D:\5.UNIK\ugatu-engineering-computer-graphics\laboratory_work3\lesson15-camera\x64\Debug\lesson15.vcxproj.CopyComplete
+D:\5.UNIK\ugatu-engineering-computer-graphics\laboratory_work3\lesson15-camera\x64\Debug\lesson15.exe
+D:\5.UNIK\ugatu-engineering-computer-graphics\laboratory_work3\lesson15-camera\x64\Debug\freeglutd.dll
+D:\5.UNIK\ugatu-engineering-computer-graphics\laboratory_work3\lesson15-camera\x64\Debug\glew32d.dll

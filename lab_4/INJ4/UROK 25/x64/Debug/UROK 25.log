@@ -1,0 +1,111 @@
+﻿  camera.cpp
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\camera.cpp(46,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\camera.cpp(50,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\camera.cpp(57,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\camera.cpp(61,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\camera.cpp(65,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  cubemap_texture.cpp
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\cubemap_texture.h(24,10): fatal  error C1083: Не удается открыть файл включение: ImageMagick/Magick++.h: No such file or directory,
+  glut_backend.cpp
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\glut_backend.cpp(19,10): fatal  error C1083: Не удается открыть файл включение: unistd.h: No such file or directory,
+  lighting_technique.cpp
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\lighting_technique.cpp(422,58): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  math_3d.cpp
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(43,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(44,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(74,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(74,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(75,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(75,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(76,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(76,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(120,56): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(120,56): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(120,16): error C2511: void Matrix4f::InitPersProjTransform(const int): перегруженная функция-член не найдена в "Matrix4f"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.h(137): message : см. объявление "Matrix4f"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(122,30): error C2065: p: необъявленный идентификатор
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(122,40): error C2065: p: необъявленный идентификатор
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(122,17): error C2737: "ar": необходимо инициализировать объект const
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(123,30): error C2065: p: необъявленный идентификатор
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(123,40): error C2065: p: необъявленный идентификатор
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(123,17): error C2737: "zRange": необходимо инициализировать объект const
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(124,35): error C2065: p: необъявленный идентификатор
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(124,17): error C2737: "tanHalfFOV": необходимо инициализировать объект const
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(126,8): error C2597: недопустимая ссылка на нестатический член "Matrix4f::m"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(126,8): error C3867: "Matrix4f::m": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(126,8): error C2568: [: не удается разрешить перегрузку функции
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(126,42): error C2597: недопустимая ссылка на нестатический член "Matrix4f::m"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(126,42): error C3867: "Matrix4f::m": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(126,42): error C2568: [: не удается разрешить перегрузку функции
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(126,69): error C2597: недопустимая ссылка на нестатический член "Matrix4f::m"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(126,69): error C3867: "Matrix4f::m": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(126,69): error C2568: [: не удается разрешить перегрузку функции
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(126,96): error C2597: недопустимая ссылка на нестатический член "Matrix4f::m"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(126,96): error C3867: "Matrix4f::m": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(126,96): error C2568: [: не удается разрешить перегрузку функции
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(127,8): error C2597: недопустимая ссылка на нестатический член "Matrix4f::m"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(127,8): error C3867: "Matrix4f::m": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(127,8): error C2568: [: не удается разрешить перегрузку функции
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(127,42): error C2597: недопустимая ссылка на нестатический член "Matrix4f::m"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(127,42): error C3867: "Matrix4f::m": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(127,42): error C2568: [: не удается разрешить перегрузку функции
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(127,69): error C2597: недопустимая ссылка на нестатический член "Matrix4f::m"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(127,69): error C3867: "Matrix4f::m": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(127,69): error C2568: [: не удается разрешить перегрузку функции
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(127,96): error C2597: недопустимая ссылка на нестатический член "Matrix4f::m"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(127,96): error C3867: "Matrix4f::m": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(127,96): error C2568: [: не удается разрешить перегрузку функции
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(128,8): error C2597: недопустимая ссылка на нестатический член "Matrix4f::m"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(128,8): error C3867: "Matrix4f::m": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(128,8): error C2568: [: не удается разрешить перегрузку функции
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(128,42): error C2597: недопустимая ссылка на нестатический член "Matrix4f::m"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(128,42): error C3867: "Matrix4f::m": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(128,42): error C2568: [: не удается разрешить перегрузку функции
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(128,69): error C2597: недопустимая ссылка на нестатический член "Matrix4f::m"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(128,69): error C3867: "Matrix4f::m": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(128,69): error C2568: [: не удается разрешить перегрузку функции
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(128,78): error C2065: p: необъявленный идентификатор
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(128,88): error C2065: p: необъявленный идентификатор
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(128,108): error C2597: недопустимая ссылка на нестатический член "Matrix4f::m"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(128,108): error C3867: "Matrix4f::m": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(128,108): error C2568: [: не удается разрешить перегрузку функции
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(128,120): error C2065: p: необъявленный идентификатор
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(128,127): error C2065: p: необъявленный идентификатор
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(129,8): error C2597: недопустимая ссылка на нестатический член "Matrix4f::m"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(129,8): error C3867: "Matrix4f::m": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(129,8): error C2568: [: не удается разрешить перегрузку функции
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(129,42): error C2597: недопустимая ссылка на нестатический член "Matrix4f::m"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(129,42): error C3867: "Matrix4f::m": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(129,42): error C2568: [: не удается разрешить перегрузку функции
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(129,69): error C2597: недопустимая ссылка на нестатический член "Matrix4f::m"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(129,69): error C3867: "Matrix4f::m": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(129,69): error C2568: [: не удается разрешить перегрузку функции
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(129,96): error C2597: недопустимая ссылка на нестатический член "Matrix4f::m"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(129,96): error C3867: "Matrix4f::m": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\math_3d.cpp(129,96): error C2568: [: не удается разрешить перегрузку функции
+  mesh.cpp
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\mesh.h(4,10): fatal  error C1083: Не удается открыть файл включение: assimp/Importer.hpp: No such file or directory,
+  pipeline.cpp
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\pipeline.h(54,47): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\pipeline.h(54,47): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\pipeline.h(75,18): error C3646: m_persProjInfo: неизвестный спецификатор переопределения
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\pipeline.h(75,32): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\pipeline.h(56,9): error C2065: m_persProjInfo: необъявленный идентификатор
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\pipeline.h(56,26): error C2065: p: необъявленный идентификатор
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\pipeline.cpp(42,41): error C2065: m_persProjInfo: необъявленный идентификатор
+  skybox.cpp
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\cubemap_texture.h(24,10): fatal  error C1083: Не удается открыть файл включение: ImageMagick/Magick++.h: No such file or directory,
+  skybox_technique.cpp
+  technique.cpp
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\technique.cpp(93,36): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  texture.cpp
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\texture.h(25,10): fatal  error C1083: Не удается открыть файл включение: ImageMagick/Magick++.h: No such file or directory,
+  UROK 25.cpp
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\pipeline.h(54,47): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\pipeline.h(54,47): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\pipeline.h(75,18): error C3646: m_persProjInfo: неизвестный спецификатор переопределения
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\pipeline.h(75,32): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\pipeline.h(56,9): error C2065: m_persProjInfo: необъявленный идентификатор
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\pipeline.h(56,26): error C2065: p: необъявленный идентификатор
+C:\Users\neket\Desktop\projects\github\INJGraphTyush\INJ4\UROK 25\texture.h(25,10): fatal  error C1083: Не удается открыть файл включение: ImageMagick/Magick++.h: No such file or directory,
+  Создание кода...

@@ -1,0 +1,5 @@
+D:\5.UNIK\ugatu-engineering-computer-graphics\lesson14\x64\Release\lesson14.vcxproj.CopyComplete
+D:\5.UNIK\ugatu-engineering-computer-graphics\lesson14\x64\Release\lesson14.exe
+D:\5.UNIK\ugatu-engineering-computer-graphics\lesson14\x64\Release\freeglut.dll
+D:\5.UNIK\ugatu-engineering-computer-graphics\lesson14\x64\Release\glew32.dll
+D:\5.UNIK\ugatu-engineering-computer-graphics\laboratory_work3\lesson14-camera\x64\Release\lesson14.exe
